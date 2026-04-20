@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/typelevel-rite-of-passage.iml" filepath="$PROJECT_DIR$/.idea/typelevel-rite-of-passage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/typelevel-rite-of-passage/typelevel-rite-of-passage.iml" filepath="$PROJECT_DIR$/.idea/modules/typelevel-rite-of-passage/typelevel-rite-of-passage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/typelevel-rite-of-passage/typelevel-rite-of-passage.main.iml" filepath="$PROJECT_DIR$/.idea/modules/typelevel-rite-of-passage/typelevel-rite-of-passage.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/typelevel-rite-of-passage/typelevel-rite-of-passage.test.iml" filepath="$PROJECT_DIR$/.idea/modules/typelevel-rite-of-passage/typelevel-rite-of-passage.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/typelevel-rite-of-passage/typelevel-rite-of-passage.typelevel-rite-of-passage-build.iml" filepath="$PROJECT_DIR$/.idea/modules/typelevel-rite-of-passage/typelevel-rite-of-passage.typelevel-rite-of-passage-build.iml" />
     </modules>
   </component>
 </project>

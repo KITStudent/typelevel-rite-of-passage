@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="true" />
+    <profile name="sbt 1" modules="typelevel-rite-of-passage,typelevel-rite-of-passage.main,typelevel-rite-of-passage.test,typelevel-rite-of-passage_5152,typelevel-rite-of-passage_5152.main,typelevel-rite-of-passage_5152.test" />
+  </component>
+</project>
